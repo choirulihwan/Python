@@ -1,0 +1,21 @@
+<info>
+    <name>Choirul</name>
+    <age>35</age>
+    <languages>
+        <item>Indonesian</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Java</item>
+        <item>Python</item>
+    </languages>
+    <jobs>
+        <item>
+            <title>Developer</title>
+            <place>yogyakarta</place>
+        </item>
+        <item>
+            <title>programmer</title>
+            <place>surabaya</place>
+        </item>
+    </jobs>
+</info>

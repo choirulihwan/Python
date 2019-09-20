@@ -1,0 +1,9 @@
+{
+
+  "name": "Choirul",
+  "age": 35,
+  "languages": ["indonesian", "english", "arabic", "java", "python"],
+  "jobs": [{"title": "developer", "place": "Yogyakarta"},
+           {"title": "programmer", "place": "Surabaya"}]
+
+}
