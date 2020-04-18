@@ -10,3 +10,9 @@ print(person)
 print("delete age")
 del(person["Age"])
 print(person)
+
+# dictionary 2
+teman = {}
+teman['Name'] = 'Andoga'
+teman['Age']    = 20
+print(teman)
