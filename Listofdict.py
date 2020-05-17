@@ -14,8 +14,8 @@ mobil2 ['bahan_bakar'] = 'pertamax'
 mobil2 ['jenis'] = 'suv'
 mobil_saya.append(mobil2)
 
-i = 0
-print('mobil_saya: ')
-for mobil in mobil_saya:
-    i += 1
-    print('{} : {} {} cc, bahan bakar {}'.format(i, mobil['merk'], mobil['cc'], mobil['bahan_bakar']))
+# i = 0
+# print('mobil_saya: ')
+# for mobil in mobil_saya:
+#     i += 1
+#     print('{} : {} {} cc, bahan bakar {}'.format(i, mobil['merk'], mobil['cc'], mobil['bahan_bakar']))
